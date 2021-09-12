@@ -1,4 +1,4 @@
-package com.loveneesh.aerospike.aerospikerestclient
+package com.loveneesh.aerospike
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

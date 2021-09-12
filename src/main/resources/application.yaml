@@ -1,0 +1,9 @@
+server:
+  port: 8085
+spring:
+  aerospike:
+    hosts: localhost:3000
+  data:
+    aerospike:
+      namespace: TEST
+      type-key: bin
